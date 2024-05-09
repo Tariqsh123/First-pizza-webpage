@@ -1,0 +1,12 @@
+@media only screen and (max-width:1131px){
+    #row4{
+        width: 42vw;
+    }
+    #row5{
+        width:45vw;
+    }
+    #row6{
+        margin-top: 20px;
+        width:90vw;
+    }
+}
